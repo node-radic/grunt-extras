@@ -1,0 +1,35 @@
+{
+    "version": "1.6.2",
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "sourceMap": true
+    },
+    "files": [
+        "lib/types.d.ts",
+        "index.ts",
+        "lib/index.ts",
+        "lib/typings/globule.d.ts",
+        "lib/typings/ts-node.d.ts",
+        "lib/typings/tsd/fs-extra/fs-extra.d.ts",
+        "lib/typings/tsd/gruntjs/gruntjs.d.ts",
+        "lib/typings/tsd/lodash/lodash.d.ts",
+        "lib/typings/tsd/node/node.d.ts",
+        "lib/typings/tsd/tsd.d.ts",
+        "lib/typings/underscore.string.d.ts"
+    ],
+    "filesGlob": [
+        "./lib/types.d.ts",
+        "./index.ts",
+        "./lib/**/*.ts",
+        "./lib/typings/**/*.d.ts"
+    ],
+    "compileOnSave": false,
+    "exclude": []
+}

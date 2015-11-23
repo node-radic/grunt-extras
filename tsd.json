@@ -1,0 +1,21 @@
+{
+    "version": "v4",
+    "repo": "borisyankov/DefinitelyTyped",
+    "ref": "master",
+    "path": "lib/typings/tsd",
+    "bundle": "lib/typings/tsd/tsd.d.ts",
+    "installed": {
+        "fs-extra/fs-extra.d.ts": {
+            "commit": "418ef25d7f814ac2544ee65726b86bf929260212"
+        },
+        "node/node.d.ts": {
+            "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+        },
+        "lodash/lodash.d.ts": {
+            "commit": "418ef25d7f814ac2544ee65726b86bf929260212"
+        },
+        "gruntjs/gruntjs.d.ts": {
+            "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+        }
+    }
+}
